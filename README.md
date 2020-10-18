@@ -12,7 +12,7 @@
 
 <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/coding.gif" alt="coding ?">
 
-<b>Skills :</b> <code>Python</code> | <code>C Sharp</code> | <code>PHP</code> | <code>C</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code>
+<b>Skills :</b> <code>CyberSecurity Enthusiast</code> | <code>C</code> | <code>Java</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code> | <code>Python</code>
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=samirjanaofficial&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=000000&icon_color=2979FF&bg_color=ffffff" alt="SVR's github stats">
 
