@@ -3,7 +3,7 @@
 
 <div align="center" width="50">
 
-<code>I'm a Computer Science Engineer. 😎</code>
+<code>I'm a Computer Science Student of STCET. 😎</code>
 <code>I love programming. ❤ But I am too noob when it comes to coding😉</code>
 <code>I like hoarding Data. ❤</code>
 <code>Anime lover. 😉</code>
