@@ -3,7 +3,7 @@
 
 I'm a 4th Year Computer Science Student [@STCET Kolkata Campus❤](https://www.stcet.org/), a passionate self-taught frontEnd web developer😍️ & a CyberSecurity Enthusiast.😎 Noob in long-term Coding😉
 
-Spend my free time on making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇
+Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Studying Story Books📚
 
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding1.gif" alt="coding ?">
 <img width="415px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/study.gif" alt="study ?">
