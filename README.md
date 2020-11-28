@@ -3,7 +3,7 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "Samir Jana"
-College = "STCET @ Kolkata❣️"
+"A Fourth Year Computer Science & Engineering Student @ STCET Kolkata Campus❣️"
 Age = "20"
 Country = "🇮🇳"
 ```
