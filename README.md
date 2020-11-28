@@ -3,10 +3,12 @@
 
 ## Here are few things about me
 - 🎓 4'th Year Computer Science Student [@STCET Kolkata Campus❤](https://www.stcet.org/)
-- A passionate self-taught frontEnd web developer😍️
-- CyberSecurity Enthusiast & Cretified Information Security Defender (C|ISD)😎
-- Noob in long-term Coding😉
-- Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Studying Story Books📚
+- 😍️ A passionate self-taught frontEnd web developer
+- 😎 CyberSecurity Enthusiast & Cretified Information Security Defender (C|ISD)
+- 😉 Noob in long-term Coding
+- 😴 Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Studying Story Books📚
+- ☁️ Cloud Enthusiast
+- 💡 A creative individual
 <div align="center">
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/Code.gif" alt="coding ?">
 <img width="411px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/study.gif" alt="study ?">
