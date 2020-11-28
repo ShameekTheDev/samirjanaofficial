@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="20px"></h2>
+<h2>Hi there, I'm Samir<img align="center" src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="20px"></h2>
 
 <p>
 <a href="https://t.me/uDreamTooSmall">
