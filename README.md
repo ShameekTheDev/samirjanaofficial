@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Hey there <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px">, This is Ci5er.</h2>
-
+</div>
 <a href="https://t.me/uDreamTooSmall">
   <img align="center" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/7bbbbca223d8e7e707dcdf43f7c5a085ff431d28/assets/telegram.svg" />
 </a>
@@ -23,7 +23,7 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 
 <img src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding.gif" alt="coding ?">
 
-</div>
+
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
   
