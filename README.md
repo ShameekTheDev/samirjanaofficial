@@ -60,8 +60,7 @@ Country = "India"
 
 ![Github Stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&title_color=2979FF&text_color=000000&icon_color=2979FF&bg_color=ffffff&count_private=true&include_all_commits=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Samir's Github Stats" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=radical)](https://github.com/SamirJanaOfficial)
 </div>
