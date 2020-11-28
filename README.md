@@ -1,7 +1,7 @@
 <div align="center">
  <h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px"></h2>
 
-I'm a fourth year Computer Science Student [@STCET Kolkata Campus❤](https://www.stcet.org/),a passionate self-taught frontEnd web developer😍️ & a CyberSecurity Enthusiast.😎 Noob in long-term Coding😉
+I'm a 4th Year Computer Science Student [@STCET Kolkata Campus❤](https://www.stcet.org/), a passionate self-taught frontEnd web developer😍️ & a CyberSecurity Enthusiast.😎 Noob in long-term Coding😉
 
 Spend my free time on making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇
 
