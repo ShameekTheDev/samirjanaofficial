@@ -1,4 +1,3 @@
-<div align="center">
 ### Hi there, I'm Samir!<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px">
 
 <a href="https://t.me/uDreamTooSmall">
@@ -11,7 +10,8 @@
   <img align="left" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/linkedin.svg" />
 </a>
 
-</div>
+<br />
+<br />
 
 <div align="center">
 
