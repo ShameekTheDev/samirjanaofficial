@@ -11,11 +11,11 @@ Spend my free time on making project for <a href="https://t.me/uDreamTooSmall">T
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
 </div>
 
-- 🌱I’m currently learning Python
-- 😄I'm Still Learning Git & GitHub
-- 🥰Python Lover
-- ⚜️Most Of My Repositories Are For Telegram
-- 💬 Ask me about anything [here](https://github.com/SamirJanaOfficial/samirjanaofficial/issues)
+- 🌱 I’m currently learning Python
+- 😄 I'm Still Learning Git & GitHub
+- 🥰 Python Lover
+- ⚜️ Most Of My Repositories Are For Telegram❤
+- 💬 Ask me about anything [here](https://github.com/SamirJanaOfficial/samirjanaofficial/issues) or [on Telegram](https://t.telegram.ind.in/ShiNobiCloud)
 - 🤔 You can join my channel on Telegram as [ShiNobi Cloud](https://t.telegram.ind.in/ShiNobiCloud)
 
 ## Contact With Me 👇
