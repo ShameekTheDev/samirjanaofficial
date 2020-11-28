@@ -28,7 +28,7 @@ Country = "🇮🇳"
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
 [<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
-[<img align="left" alt="Google Cloud Platform" width="26px" src="https://icon2.cleanpng.com/20180415/liq/kisspng-google-cloud-platform-cloud-computing-amazon-web-s-cloud-computing-5ad2ea74d529a6.8569621915237720208731.jpg" />](https://cloud.google.com/)
+[<img align="left" alt="Google Cloud Platform" width="26px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />](https://cloud.google.com/)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 [<img align="left" alt="AWS" width="50px" src="https://files.readme.io/5499222-awslogo.png" />](https://aws.amazon.com/)
 
