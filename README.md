@@ -13,11 +13,11 @@
 <img align="center" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/linkedin.svg" />
 </a>
 
-<a href="https://github.com/SamirJanaOfficial">
-  <img align="center" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/7bbbbca223d8e7e707dcdf43f7c5a085ff431d28/assets/telegram.svg" alt="Samir's github stats" />
+<a href="https://t.me/uDreamTooSmall">
+  <img align="center" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/7bbbbca223d8e7e707dcdf43f7c5a085ff431d28/assets/telegram.svg" />
 </a>
-<a href="https://github.com/SamirJanaOfficial">
-  <img align="center" alt="Yagami 死神 Kira | Telegram" width="21px src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/gmail.svg" />
+<a href="https:mailto:samirjana2307@gmail.com">
+ <img align="center" alt="Samir Jana | Gmail" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/gmail.svg" />
 </a>
 
 <br />
