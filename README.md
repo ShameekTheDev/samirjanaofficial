@@ -22,20 +22,6 @@ Country = "India"
 - 🤔 You can join my channel on Telegram as [ShiNobi Cloud](https://t.telegram.ind.in/ShiNobiCloud)
 
 
-## Skills 👨‍💻
-
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
-<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
-<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
-<img align="left" alt="AWS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
-<img align="left" alt="Cloudflare" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cloudflare.svg" />
-<img align="left" alt="Heroku" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/heroku.svg" />
-<img align="left" alt="Google Products Expert" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/google.svg" />
-
-<br />
-<br />
-
 ## Published Projects by Me are below💻👯
 - [Covid-19-Dashboard](https://covid-19-liveupdate.netlify.app/) Build this with my team as an Intern.
 - [JioSaavn Downloader](https://shinobi-jiosaavn.netlify.app/) Configured by [Samir Jana](https://github.com/SamirJanaOfficial) ,using Un-Official [Api](https://github.com/cyberboysumanjay/JioSaavnAPI).
