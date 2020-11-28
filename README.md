@@ -71,6 +71,7 @@
 [<img align="left" alt="Google Cloud Platform" width="26px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />](https://cloud.google.com/)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
 [<img align="left" alt="AWS" width="30px" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" />](https://aws.amazon.com/)
+[<img align="left" alt="CloudFlare" width="30px" src="https://seeklogo.com/images/C/cloudflare-logo-6B7D159387-seeklogo.com.png" />](https://www.cloudflare.com/)
 
 <br />
 <br />
