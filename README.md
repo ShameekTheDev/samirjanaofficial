@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Hi there, I'm Samir! <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="35px"></h2>
- </div>
+</div>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Here are few things about me
