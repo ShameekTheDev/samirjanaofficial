@@ -1,8 +1,6 @@
 <div align="center">
  <h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px"></h2>
 
-<div align="center" width="50">
-
 I'm a CS Student and a CyberSecurity Enthusiast. 😎
 I am noob in terms of long coding btw.❤ But I like to learn new things.😉
 
