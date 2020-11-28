@@ -52,8 +52,8 @@ Country = "India"
 [<img align="left" alt="AWS" width="30px" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" />](https://aws.amazon.com/)
 
 <br />
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]
 <br />
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]
 
 ## My GitHub Stats💛
 
