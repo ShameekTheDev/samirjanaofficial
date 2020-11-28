@@ -1,4 +1,3 @@
-<div align="center">
 <h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="20px"></h2>
 
 <a href="https://t.me/uDreamTooSmall">
@@ -16,7 +15,6 @@
 <br />
 <br />
 
-<div align="center">
 
 I'm a CS Student and a CyberSecurity Enthusiast. 😎
 I am noob in terms of long coding btw.❤ But I like to learn new things.😉
@@ -29,7 +27,6 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
  
-<div align="left">
 
 - 🌱I’m currently learning Python
 - 😄I'm Still Learning Git & GitHub
@@ -56,10 +53,8 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 
 <br />
 <br />
-<div align="center">
   
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
-</div>
 
 ## My GitHub Stats💛
 
