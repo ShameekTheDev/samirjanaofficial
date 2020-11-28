@@ -8,7 +8,7 @@
 - 😉 Noob in long-term Coding
 - ☁️ Cloud Enthusiast
 - 💡 A creative individual
-- 😴 Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Studying Story Books📚
+- 😴 Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Reading Story Books📚
 
 <div align="center">
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/Code.gif" alt="coding ?">
