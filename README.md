@@ -1,7 +1,4 @@
-<div align="center">
 ### Hi there, I'm Samir!<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px">
-  
-<div align="center" width="50">
 
 <a href="https://t.me/uDreamTooSmall">
   <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/7bbbbca223d8e7e707dcdf43f7c5a085ff431d28/assets/telegram.svg" />
