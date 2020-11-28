@@ -13,8 +13,12 @@
 <img align="center" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/linkedin.svg" />
 </a>
 
-[<img align="center" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
-[<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
+<a href="https://github.com/SamirJanaOfficial">
+  <img align="center" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/7bbbbca223d8e7e707dcdf43f7c5a085ff431d28/assets/telegram.svg" alt="Samir's github stats" />
+</a>
+<a href="https://github.com/SamirJanaOfficial">
+  <img align="center" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/gmail.svg" />
+</a>
 
 <br />
 <br />
