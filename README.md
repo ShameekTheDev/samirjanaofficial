@@ -30,7 +30,7 @@ Country = "🇮🇳"
 [<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
 [<img align="left" alt="Google Cloud Platform" width="26px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />](https://cloud.google.com/)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
-[<img align="left" alt="AWS" width="50px" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" />](https://aws.amazon.com/)
+[<img align="left" alt="AWS" width="26px" src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" />](https://aws.amazon.com/)
 
 <br />
 <br />
