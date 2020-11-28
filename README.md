@@ -10,6 +10,7 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
  
+ 
 ### About Me 🙋🏻‍♂️
 ```python
 Name = "Samir Jana"
