@@ -33,11 +33,10 @@
 
 </p>
 
-<br>
-
+<br><br>
 ## Skills 👨‍💻
-</br>
 
+</br>
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
 ![github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=orange&labelColor=white)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)
