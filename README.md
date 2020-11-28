@@ -7,7 +7,7 @@ Name = "Samir Jana"
 Age = "20+"
 Country = "India"
 ```
-### Available 👇
+## Available 👇
 [![telegram badge](https://img.shields.io/badge/Yagami死神Kira-30302f?style=for-the-badge&logo=telegram)](https://t.me/uDreamTooSmall)
 [![mailid badge](https://img.shields.io/badge/SamirJana-30302f?style=for-the-badge&logo=gmail)](https:mailto:samirjana2307@gmail.com)
 [![linkedin badge](https://img.shields.io/badge/SamirJana-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samir-jana-04036b200/)
