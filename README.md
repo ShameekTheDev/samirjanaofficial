@@ -17,6 +17,22 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
 </div>
 
+## Contact With Me 👇
+<p>
+<a href="https://t.me/uDreamTooSmall">
+ <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
+</a>
+<a href="https:mailto:samirjana2307@gmail.com">
+ <img align="left" alt="Samir Jana | Gmail" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/samir-jana-04036b200/">
+ <img align="left" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/linkedin.svg" />
+</a>
+
+</p>
+</br>
+</br>
+
 <br><br>
 ## Skills 👨‍💻
 <br>
@@ -38,22 +54,6 @@
 - ⚜️ Most Of My Repositories Are For Telegram❤
 - 💬 Ask me about anything [here](https://github.com/SamirJanaOfficial/samirjanaofficial/issues) or [on Telegram](https://t.telegram.ind.in/ShiNobiCloud)
 - 🤔 You can join my channel on Telegram as [ShiNobi Cloud](https://t.telegram.ind.in/ShiNobiCloud)
-</br>
-
-## Contact With Me 👇
-<p>
-<a href="https://t.me/uDreamTooSmall">
- <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
-</a>
-<a href="https:mailto:samirjana2307@gmail.com">
- <img align="left" alt="Samir Jana | Gmail" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/samir-jana-04036b200/">
- <img align="left" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/linkedin.svg" />
-</a>
-
-</p>
-</br>
 </br>
 
 ## Published Projects by Me are below💻👯
