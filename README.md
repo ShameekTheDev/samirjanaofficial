@@ -5,7 +5,7 @@
 Name = "Samir Jana"
 "A Fourth Year Computer Science & Engineering Student @ STCET Kolkata Campus❣️"
 Age = "20+"
-Country = "INDIA"
+Country = "India"
 ```
 ### Available 👇
 #### 
