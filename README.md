@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<div align="center">
+<div align="left">
 
 I'm a CS Student and a CyberSecurity Enthusiast. 😎
 I am noob in terms of long coding btw.❤ But I like to learn new things.😉
@@ -52,7 +52,7 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 
 <br />
 <br />
-
+<div align="center">
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 ## My GitHub Stats💛
