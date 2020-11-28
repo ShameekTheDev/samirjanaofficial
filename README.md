@@ -4,7 +4,7 @@
 ## Here are few things about me
 - 🎓 4'th Year Computer Science Student [@STCET Kolkata Campus❤](https://www.stcet.org/)
 - 😍️ A passionate self-taught frontEnd web developer
-- 😎 CyberSecurity Enthusiast & Cretified Information Security Defender (C|ISD)
+- 😎 CyberSecurity Enthusiast & Certified Information Security Defender (C|ISD)😎
 - 😉 Noob in long-term Coding
 - 😴 Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Studying Story Books📚
 - ☁️ Cloud Enthusiast
