@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 #### Here are few things about me.
-
+##
 - 🎓 4'th Year Computer Science Student [@STCET Kolkata Campus❤](https://www.stcet.org/)
 - A passionate self-taught frontEnd web developer😍️
 - CyberSecurity Enthusiast & Cretified Information Security Defender (C|ISD)😎
