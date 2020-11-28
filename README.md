@@ -21,7 +21,7 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 - 💬 Ask me about anything [here](https://github.com/SamirJanaOfficial/samirjanaofficial/issues)
 - 🤔 You can join my channel on Telegram as [ShiNobi Cloud](https://t.telegram.ind.in/ShiNobiCloud)
 
-## Contact Me 👇
+## Contact With Me 👇
 <p>
 <a href="https://t.me/uDreamTooSmall">
  <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
