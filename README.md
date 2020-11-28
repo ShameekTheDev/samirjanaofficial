@@ -18,6 +18,7 @@ Country = "India"
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
 - ⚜️Most Of My Repositories Are For Telegram
+- 💬 Ask me about anything [here](https://github.com/SamirJanaOfficial/samirjanaofficial/issues)
 - 🤔 You can join my channel on Telegram as [ShiNobi Cloud](https://t.telegram.ind.in/ShiNobiCloud)
 
 
