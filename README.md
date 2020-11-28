@@ -22,6 +22,18 @@ Country = "🇮🇳"
 
 ### Published Projects by Me are below
 
+### Skills 👨‍💻
+
+<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
+<img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
+<img align="left" alt="HTML" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg" />
+<img align="left" alt="CSS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
+<img align="left" alt="AWS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
+<img align="left" alt="Cloudflare" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cloudflare.svg" />
+<img align="left" alt="Heroku" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/heroku.svg" />
+<img align="left" alt="Google Products Expert" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/google.svg" />
+
+
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
