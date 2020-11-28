@@ -1,8 +1,9 @@
 <div align="center">
  <h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px"></h2>
 
-I'm a fourth year Computer Science Student [@STCET Kolkata Campus](https://www.stcet.org/) and a CyberSecurity Enthusiast.😎 A Python Lover And Noob Programmer😍️❤ But I like to learn new things.😉
-I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="https://wa.link/lsncyv">WhatsApp</a>. 😇
+I'm a fourth year Computer Science Student [@STCET Kolkata Campus❤](https://www.stcet.org/),a passionate self-taught frontEnd web developer😍️ & a CyberSecurity Enthusiast.😎 Noob in long-term Coding😉
+
+Spend my free time on making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇
 
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding.gif" alt="coding ?">
 
