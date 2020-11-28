@@ -49,7 +49,7 @@ Country = "India"
 <br />
 <br />
 
-### Stats ⚡️
+### My GitHub Stats💛
 
 ![Github Stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&title_color=2979FF&text_color=000000&icon_color=2979FF&bg_color=ffffff&count_private=true&include_all_commits=true)
 
