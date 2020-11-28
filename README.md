@@ -15,13 +15,16 @@
 </br>
 </br>
 
+<div align="center" width="50">
+
 I'm a CS Student and a CyberSecurity Enthusiast. 😎
 I am noob in terms of long coding btw.❤ But I like to learn new things.😉
 
 I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="https://wa.link/lsncyv">WhatsApp</a>. 😇
 
-<img width="300px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding.gif" alt="coding ?">
+<img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding.gif" alt="coding ?">
 
+</div>
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
