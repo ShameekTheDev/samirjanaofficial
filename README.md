@@ -7,3 +7,8 @@ Name = "Samir Jana"
 Age = "20+"
 Country = "🇮🇳"
 ```
+### Available 👇
+#### 
+[![telegram badge](https://img.shields.io/badge/SamirJana-30302f?style=for-the-badge&logo=telegram)](https://t.me/uDreamTooSmall)
+[![mailid badge](https://img.shields.io/badge/SamirJana-30302f?style=for-the-badge&logo=gmail)](https:mailto:samirjana2307@gmail.com)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
