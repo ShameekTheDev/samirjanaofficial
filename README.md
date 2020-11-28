@@ -48,7 +48,6 @@
 ![GoogleCloudPlatform](https://img.shields.io/badge/-GCP-black?style=for-the-badge&logo=google&logoColor=red&labelColor=white)
 ![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
 
-<br>
 
 - 🌱 I’m currently learning Python
 - 😄 I'm Still Learning Git & GitHub
