@@ -1,21 +1,5 @@
 <div align="center">
  <h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px"></h2>
-</div>
-
-<p>
-<a href="https://t.me/uDreamTooSmall">
- <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
-</a>
-<a href="https:mailto:samirjana2307@gmail.com">
- <img align="left" alt="Samir Jana | Gmail" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/samir-jana-04036b200/">
- <img align="left" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/linkedin.svg" />
-</a>
-
-</p>
-</br>
-</br>
 
 <div align="center" width="50">
 
@@ -44,6 +28,21 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 - [Covid-19-Dashboard](https://covid-19-liveupdate.netlify.app/) Build this with my team as an Intern.
 - [JioSaavn Downloader](https://shinobi-jiosaavn.netlify.app/) Configured by [Samir Jana](https://github.com/SamirJanaOfficial) ,using Un-Official [Api](https://github.com/cyberboysumanjay/JioSaavnAPI).
 - [Samir-Drive-Index](https://
+
+<p>
+<a href="https://t.me/uDreamTooSmall">
+ <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
+</a>
+<a href="https:mailto:samirjana2307@gmail.com">
+ <img align="left" alt="Samir Jana | Gmail" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/samir-jana-04036b200/">
+ <img align="left" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/linkedin.svg" />
+</a>
+
+</p>
+</br>
+</br>
 
 ## Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
