@@ -21,13 +21,7 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 - 💬 Ask me about anything [here](https://github.com/SamirJanaOfficial/samirjanaofficial/issues)
 - 🤔 You can join my channel on Telegram as [ShiNobi Cloud](https://t.telegram.ind.in/ShiNobiCloud)
 
-
-## Published Projects by Me are below💻👯
-- [Covid-19-Dashboard](https://covid-19-liveupdate.netlify.app/) Build this with my team as an Intern.
-- [JioSaavn Downloader](https://shinobi-jiosaavn.netlify.app/) Configured by [Samir Jana](https://github.com/SamirJanaOfficial) ,using Un-Official [Api](https://github.com/cyberboysumanjay/JioSaavnAPI).
-- [Samir-Drive-Index](https://
-
-## Available 👇
+## Contact Me 👇
 <p>
 <a href="https://t.me/uDreamTooSmall">
  <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
@@ -41,6 +35,11 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 
 </p>
 </br>
+
+## Published Projects by Me are below💻👯
+- [Covid-19-Dashboard](https://covid-19-liveupdate.netlify.app/) Build this with my team as an Intern.
+- [JioSaavn Downloader](https://shinobi-jiosaavn.netlify.app/) Configured by [Samir Jana](https://github.com/SamirJanaOfficial) ,using Un-Official [Api](https://github.com/cyberboysumanjay/JioSaavnAPI).
+- [Samir-Drive-Index](https://
 
 ## Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
