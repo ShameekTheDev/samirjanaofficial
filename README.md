@@ -8,7 +8,7 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 
 <div align="center">
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding.gif" alt="coding ?">
-
+</div>
 </div>
 
 
