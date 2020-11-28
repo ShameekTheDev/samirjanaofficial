@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there, I'm Samir!<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px">
 
 <a href="https://t.me/uDreamTooSmall">
@@ -11,8 +12,6 @@
 </a>
 <br />
 <br />
-
-<div align="center" width="50">
 
 I'm a CS Student and a CyberSecurity Enthusiast. 😎
 I am noob in terms of long coding btw.❤ But I like to learn new things.😉
