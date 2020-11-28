@@ -10,11 +10,11 @@
 <a href="https://www.linkedin.com/in/samir-jana-04036b200/">
   <img align="center" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/linkedin.svg" />
  </a>
-</div>
+
 <br />
 <br />
 
-<div align="left">
+<div align="center">
 
 I'm a CS Student and a CyberSecurity Enthusiast. 😎
 I am noob in terms of long coding btw.❤ But I like to learn new things.😉
@@ -26,7 +26,9 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
-  
+ 
+<div align="left">
+
 - 🌱I’m currently learning Python
 - 😄I'm Still Learning Git & GitHub
 - 🥰Python Lover
@@ -54,7 +56,7 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 <br />
 <div align="center">
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
-
+</div>
 ## My GitHub Stats💛
 
 <a href="https://github.com/SamirJanaOfficial">
