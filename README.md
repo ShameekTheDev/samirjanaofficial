@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hey there <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px">, This is Ci5er.</h2>
+<h2>Hey there <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px">, This is Yagami.</h2>
 
 <a href="https://t.me/uDreamTooSmall">
   <img align="center" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/7bbbbca223d8e7e707dcdf43f7c5a085ff431d28/assets/telegram.svg" />
@@ -55,12 +55,13 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 <br />
 <br />
 <div align="center">
+  
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 </div>
 
 ## My GitHub Stats💛
 
-<br><a href="https://github.com/SamirJanaOfficial">
+<a href="https://github.com/SamirJanaOfficial">
   <img align="center" src="https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="Samir's github stats" />
 </a>
 <a href="https://github.com/SamirJanaOfficial">
