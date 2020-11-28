@@ -54,3 +54,6 @@ Country = "India"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=radical)](https://github.com/SamirJanaOfficial)
 </div>
+
+## Donate Me:
+[![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/sj.imsamir@okaxis)
