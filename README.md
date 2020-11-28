@@ -14,8 +14,12 @@
 
 <b>Skills :</b> <code>CyberSecurity Enthusiast</code> | <code>C</code> | <code>Java</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code> | <code>Python</code>
 
+</br>
+</br>
+
 ### Stats ⚡️
-<br><img src="https://github-readme-stats.vercel.app/api?username=samirjanaofficial&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=000000&icon_color=2979FF&bg_color=ffffff" alt="SVR's github stats">
+
+![Github Stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&title_color=2979FF&text_color=000000&icon_color=2979FF&bg_color=ffffff" alt="SVR's github stats">
 
 <br><img src="https://gpvc.arturio.dev/SamirJanaOfficial" alt="Profile views">
 
