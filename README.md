@@ -64,7 +64,7 @@ I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="h
 ## My GitHub Stats💛
 
 <a href="https://github.com/SamirJanaOfficial">
-  <img align="center" src="https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="Samir's github stats" />
+  <img align="center" src="https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" alt="Samir's github stats" />
 </a>
 <a href="https://github.com/SamirJanaOfficial">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=radical" />
