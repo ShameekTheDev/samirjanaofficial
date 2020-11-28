@@ -19,7 +19,7 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
 </div>
 
-## Contact With Me 👇
+## Connect With Me 👇
 <p>
 <a href="https://t.me/uDreamTooSmall">
  <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
