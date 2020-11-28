@@ -1,5 +1,6 @@
 <h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="20px"></h2>
 
+<p>
 <a href="https://t.me/uDreamTooSmall">
  <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
 </a>
@@ -10,6 +11,7 @@
  <img align="left" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/linkedin.svg" />
 </a>
 
+</p>
 
 I'm a CS Student and a CyberSecurity Enthusiast. 😎
 I am noob in terms of long coding btw.❤ But I like to learn new things.😉
