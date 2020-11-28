@@ -5,7 +5,7 @@ I'm a 4th Year Computer Science Student [@STCET Kolkata Campus❤](https://www.s
 
 Spend my free time on making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇
 
-<img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding1.gif" alt="coding ?">
+<img width="395px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding1.gif" alt="coding ?">
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/study.gif" alt="study ?">
 
 
