@@ -60,8 +60,6 @@ Country = "India"
 
 ![Github Stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight)
 
-<img align="center" src="https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=radical)](https://github.com/SamirJanaOfficial)
 </div>
 
