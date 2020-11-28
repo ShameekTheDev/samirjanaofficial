@@ -6,9 +6,10 @@
 - 😍️ A passionate self-taught frontEnd web developer
 - 😎 CyberSecurity Enthusiast & Certified Information Security Defender (C|ISD)😎
 - 😉 Noob in long-term Coding
-- 😴 Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Studying Story Books📚
 - ☁️ Cloud Enthusiast
 - 💡 A creative individual
+- 😴 Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Studying Story Books📚
+
 <div align="center">
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/Code.gif" alt="coding ?">
 <img width="411px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/study.gif" alt="study ?">
