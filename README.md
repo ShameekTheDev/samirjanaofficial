@@ -12,12 +12,14 @@
 <br />
 <br />
 
+<div align="center">
+
 I'm a CS Student and a CyberSecurity Enthusiast. 😎
 I am noob in terms of long coding btw.❤ But I like to learn new things.😉
 
 I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="https://wa.link/lsncyv">WhatsApp</a>. 😇
 
-<img src="https://raw.githubusercontent.com/Ci5er-404/Ci5er-404/main/PSX_20201124_212548.jpg" alt="coding ?">
+<img src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding.gif" alt="coding ?">
 
 </div>
 
