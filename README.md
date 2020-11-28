@@ -6,7 +6,7 @@ I am noob in terms of long coding btw.❤ But I like to learn new things.😉
 
 I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="https://wa.link/lsncyv">WhatsApp</a>. 😇
 
-
+<div align="center">
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding.gif" alt="coding ?">
 
 </div>
