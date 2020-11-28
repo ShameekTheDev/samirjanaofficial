@@ -1,15 +1,15 @@
 <h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="20px"></h2>
 
 <a href="https://t.me/uDreamTooSmall">
-<img align="center" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/7bbbbca223d8e7e707dcdf43f7c5a085ff431d28/assets/telegram.svg" />
+<img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/7bbbbca223d8e7e707dcdf43f7c5a085ff431d28/assets/telegram.svg" />
 </a>
  
 <a href="https:mailto:samirjana2307@gmail.com">
-<img align="center" alt="Samir Jana | Gmail" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/gmail.svg" />
+<img align="left" alt="Samir Jana | Gmail" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/gmail.svg" />
 </a>
  
 <a href="https://www.linkedin.com/in/samir-jana-04036b200/">
-<img align="center" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/linkedin.svg" />
+<img align="left" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/linkedin.svg" />
 </a>
 
 <br />
