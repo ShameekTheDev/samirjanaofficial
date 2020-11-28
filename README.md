@@ -17,6 +17,21 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
 </div>
 
+<br><br>
+## Skills 👨‍💻
+<br>
+
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
+![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow)
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)
+![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=skyblue)
+![AWS](https://img.shields.io/badge/-AWS-grey?style=for-the-badge&logo=amazon&logoColor=white&labelColor=yellow)
+![CloudFlare](https://img.shields.io/badge/-CloudFlare-grey?style=for-the-badge&logo=cloudflare&logoColor=red&labelColor=white)
+![GoogleCloudPlatform](https://img.shields.io/badge/-GCP-black?style=for-the-badge&logo=google&logoColor=red&labelColor=white)
+![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
+
+<br>
+
 - 🌱 I’m currently learning Python
 - 😄 I'm Still Learning Git & GitHub
 - 🥰 Python Lover
