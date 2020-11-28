@@ -57,9 +57,6 @@ Country = "India"
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 ## My GitHub Stats💛
-
-![Github Stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight)
-
 <a href="https://github.com/SamirJanaOfficial">
   <img align="center" src="https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="Samir's github stats" />
 </a>
