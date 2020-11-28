@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Samir<img align="center" src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="10px"></h2>
+<h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px"></h2>
 
 <p>
 <a href="https://t.me/uDreamTooSmall">
@@ -18,7 +18,7 @@ I am noob in terms of long coding btw.❤ But I like to learn new things.😉
 
 I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="https://wa.link/lsncyv">WhatsApp</a>. 😇
 
-<img src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding.gif" alt="coding ?">
+<img align="center" width="30px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/coding.gif" alt="coding ?">
 
 
 
