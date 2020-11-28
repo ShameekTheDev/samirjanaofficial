@@ -3,15 +3,16 @@
 <a href="https://t.me/uDreamTooSmall">
   <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/7bbbbca223d8e7e707dcdf43f7c5a085ff431d28/assets/telegram.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https:mailto:samirjana2307@gmail.com">
+  <img align="left" alt="Samir Jana | Gmail" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/gmail.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://www.linkedin.com/in/samir-jana-04036b200/">
+  <img align="left" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/ea668b1627b49a9fb40fae895af46f7b1386b426/assets/linkedin.svg" />
 </a>
 
 <br />
 <br />
+
 ### About Me 🙋🏻‍♂️
 ```python
 Name = "Samir Jana"
