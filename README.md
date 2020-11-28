@@ -60,9 +60,9 @@ Country = "India"
 
 ![Github Stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight)
 
-<a
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamirJanaOfficial&repo=github-readme-stats&theme=material-palenight" />
-</a> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=material-palenight" />
+</a>
 
 </div>
 
