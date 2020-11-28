@@ -1,10 +1,9 @@
-<div align="center">
- <h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px"></h2>
+<h2>Hi there, I'm Samir<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="30px"></h2>
 
 I'm a 4th Year Computer Science Student [@STCET Kolkata Campus❤](https://www.stcet.org/), a passionate self-taught frontEnd web developer😍️ & a CyberSecurity Enthusiast.😎 Noob in long-term Coding😉
 
 Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Studying Story Books📚
-
+<div align="center">
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/Code.gif" alt="coding ?">
 <img width="411px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/study.gif" alt="study ?">
 
