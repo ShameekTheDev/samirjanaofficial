@@ -14,7 +14,6 @@ Country = "🇮🇳"
 [![linkedin badge](https://img.shields.io/badge/SamirJana-30302f?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samir-jana-04036b200/)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
-<div align="center" width="50">
   
 - 🌱I’m currently learning Python
 - 😄I'm Still Learning Git & GitHub
