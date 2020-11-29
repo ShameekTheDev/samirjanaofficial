@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Samir! <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="35px"></h1>
-<h3 align="center"><code>Passionate FrontEnd Developer</code> | <code>CyberSecurity</code> | <code>C++</code> | <code>HTML</code> | <code>CSS</code> | <code>Python</code>| <code>Android Reverse Engineering</code> | <code>Django</code> | <code>Rest API</code></h3>
+<h3 align="center"><code>Passionate FrontEnd Developer</code> | <code>CyberSecurity Enthusiast</code> | <code>Python❤</code> | <code>HTML</code> | <code>CSS</code> | <code>I Love To Spend My Time In <img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" width="20px" /></code> | <code>Django</code></h3>
 
 <div align="center">
  
