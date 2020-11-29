@@ -30,14 +30,12 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
 
 ## Currently Listening To 🎧
-
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="350" />
 
 <br>
 </div>
 
 ## Connect With Me 👇
-
 <a href="https://t.me/uDreamTooSmall">
  <img align="left" alt="Yagami 死神 Kira | Telegram" width="40px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
 </a>
@@ -49,8 +47,8 @@
 </a>
 
 <br><br><br>
-## Skills 👨‍💻
 
+## Skills 👨‍💻
 ![cybersecurity](https://img.shields.io/badge/C%7CISD-Cyber--Security--Enthusiast-brightgreen?logo=appveyor&style=for-the-badge)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
 ![github](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=orange&labelColor=white)
@@ -72,7 +70,6 @@
 </br>
 
 ## Published Projects by Me are below💻👯
- 
 - [Covid-19-Dashboard](https://covid-19-liveupdate.netlify.app/) Build this with my team as an Intern.
 - [JioSaavn Downloader](https://shinobi-jiosaavn.netlify.app/) Configured by [Samir Jana](https://github.com/SamirJanaOfficial) ,using Un-Official [Api](https://github.com/cyberboysumanjay/JioSaavnAPI).
 - [Samir-Drive-Index](https://janacloud.ga) Redesigned by [Samir](https://github.com/SamirJanaOfficial/Samir-Drive-Index). Demo - [Light-Version](https://demo-light.shinobicloud.workers.dev/) & [Dark-Version](https://demo-dark.shinobicloud.workers.dev/)
@@ -99,7 +96,6 @@
 <br />
 
 ## My GitHub Stats💛
-
  ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
 ![Samir's github stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast) | ![Samir's langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=highcontrast)
