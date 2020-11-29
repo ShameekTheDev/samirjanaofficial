@@ -102,6 +102,7 @@
  ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
 ![Samir's github stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast) | ![Samir's langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=highcontrast)
+![-github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=SamirJanaOfficial&repo=github-readme-stats&show_owner=true&theme=highcontrast)
 </details>
 
 ## Donate Me:
