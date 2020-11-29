@@ -97,16 +97,11 @@
 <br />
 
 <details>
- <summary><b> My GitHub Stats💛</b></summary>
- 
-  ‏‏‎ ‎| ‏‏‎ ‎
-  --- | ---
-<a href="https://github.com/SamirJanaOfficial">
-  <img align="center" src="https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" alt="Samir's github stats" />
-</a>
-<a href="https://github.com/SamirJanaOfficial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=highcontrast" />
-</a>
+  <summary><b> My GitHub Stats💛</b></summary>
+
+ ‏‏‎ ‎| ‏‏‎ ‎
+ --- | ---
+![Samir's github stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast) | ![Samir's langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=highcontrast)
 </details>
 
 ## Donate Me:
