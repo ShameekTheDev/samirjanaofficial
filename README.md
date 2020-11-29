@@ -23,11 +23,11 @@
 ## CURRENTLY LISTENING TO 🎧
 
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="350" />
-
+</div>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamirJanaOfficial&row=1)](https://github.com/SamirJanaOfficial)
-</div>
+
 
 ## Connect With Me 👇
 
