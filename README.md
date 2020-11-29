@@ -96,8 +96,9 @@
 <br />
 <br />
 
-<details>
- <summary> My GitHub Stats💛</summary>
+<details><summary>
+ <h2>My GitHub Stats💛</h2>
+ </summary>
 
  ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
