@@ -98,6 +98,8 @@
 
 <details>
  <summary><b> My GitHub Stats💛</b></summary>
+ 
+  ‏‏‎ ‎| ‏‏‎ ‎
 
 <a href="https://github.com/SamirJanaOfficial">
   <img align="center" src="https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast" alt="Samir's github stats" />
@@ -105,6 +107,7 @@
 <a href="https://github.com/SamirJanaOfficial">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=highcontrast" />
 </a>
+</details>
 
 ## Donate Me:
 [![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/sj.imsamir@okaxis)
