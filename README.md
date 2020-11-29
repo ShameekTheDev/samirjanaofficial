@@ -71,11 +71,14 @@
 - 🤔 You can join my channel on Telegram as [ShiNobi Cloud](https://t.telegram.ind.in/ShiNobiCloud)
 </br>
 
-## Published Projects by Me are below💻👯
+<details>
+<summary> Published Projects by Me are below💻👯</summary>
+ 
 - [Covid-19-Dashboard](https://covid-19-liveupdate.netlify.app/) Build this with my team as an Intern.
 - [JioSaavn Downloader](https://shinobi-jiosaavn.netlify.app/) Configured by [Samir Jana](https://github.com/SamirJanaOfficial) ,using Un-Official [Api](https://github.com/cyberboysumanjay/JioSaavnAPI).
 - [Samir-Drive-Index](https://janacloud.ga) Redesigned by [Samir](https://github.com/SamirJanaOfficial/Samir-Drive-Index). Demo - [Light-Version](https://demo-light.shinobicloud.workers.dev/) & [Dark-Version](https://demo-dark.shinobicloud.workers.dev/)
 </br>
+</details>
 
 <details>
 <summary> Languages and Tools I Love❤️</summary>
