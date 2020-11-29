@@ -19,10 +19,13 @@
 <br>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
+
+## CURRENTLY LISTENING TO 🎧
+
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="350" />
 </div>
 
-
-### Connect With Me 👇
+## Connect With Me 👇
 
 <a href="https://t.me/uDreamTooSmall">
  <img align="left" alt="Yagami 死神 Kira | Telegram" width="40px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
@@ -33,10 +36,6 @@
 <a href="https://www.linkedin.com/in/samir-jana-04036b200/">
  <img align="left" alt="Samir Jana | Linkedin" width="40px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/linkedin.svg" />
 </a>
-
-### CURRENTLY LISTENING TO 🎧
-
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="350" />
 
 <br><br>
 ## Skills 👨‍💻
