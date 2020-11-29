@@ -37,7 +37,7 @@
  <img align="left" alt="Samir Jana | Linkedin" width="40px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/linkedin.svg" />
 </a>
 
-<br><br>
+<br><br><br>
 ## Skills 👨‍💻
 
 ![cybersecurity](https://img.shields.io/badge/C%7CISD-Cyber--Security--Enthusiast-brightgreen?logo=appveyor&style=for-the-badge)
