@@ -26,7 +26,7 @@
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamirJanaOfficial&row=1" alt="SamirJana" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SamirJanaOfficial)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## Connect With Me 👇
