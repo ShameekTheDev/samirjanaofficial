@@ -6,10 +6,11 @@
 
 </div>
 
-<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 ## Few things about me
 - 🎓 4'th Year Computer Science Student [@STCET Kolkata Campus❤](https://www.stcet.org/)
+<img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - 😍️ A passionate self-taught frontEnd web developer
 - 😎 CyberSecurity Enthusiast & Certified Information Security Defender (C|ISD)😎
 - 😉 Noob in long-term Coding
