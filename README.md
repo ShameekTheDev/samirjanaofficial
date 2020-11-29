@@ -13,7 +13,7 @@
 - 😴 Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Reading Story Books📚
 
 <div align="center">
-<img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/Code1.gif" alt="coding ?">
+<img width="415px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/Code1.gif" alt="coding ?">
 <img width="410px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/study.gif" alt="study ?">
 
 <br><br>
