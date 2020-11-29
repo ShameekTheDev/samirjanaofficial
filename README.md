@@ -24,7 +24,7 @@
 
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="350" />
 
-<br><br>
+<br>
 </div>
 
 ## Connect With Me 👇
