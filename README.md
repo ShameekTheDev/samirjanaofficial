@@ -71,9 +71,7 @@
 - 🤔 You can join my channel on Telegram as [ShiNobi Cloud](https://t.telegram.ind.in/ShiNobiCloud)
 </br>
 
-<details>
-<summary> Published Projects by Me are below💻👯</summary>
- <br>
+## Published Projects by Me are below💻👯
  
 - [Covid-19-Dashboard](https://covid-19-liveupdate.netlify.app/) Build this with my team as an Intern.
 - [JioSaavn Downloader](https://shinobi-jiosaavn.netlify.app/) Configured by [Samir Jana](https://github.com/SamirJanaOfficial) ,using Un-Official [Api](https://github.com/cyberboysumanjay/JioSaavnAPI).
@@ -100,14 +98,12 @@
 <br />
 <br />
 
-<details>
- <summary> My GitHub Stats💛</summary>
+## My GitHub Stats💛
 
  ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
 ![Samir's github stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast) | ![Samir's langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=highcontrast)
 ![-github-readme-stats](https://github-readme-stats.vercel.app/api/pin/?username=SamirJanaOfficial&repo=github-readme-stats&show_owner=true&theme=highcontrast)
-</details>
 
 ## Donate Me:
 [![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/sj.imsamir@okaxis)
