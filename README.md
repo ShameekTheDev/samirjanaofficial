@@ -24,13 +24,13 @@
 ## Connect With Me 👇
 <p>
 <a href="https://t.me/uDreamTooSmall">
- <img align="left" alt="Yagami 死神 Kira | Telegram" width="20px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
+ <img align="left" alt="Yagami 死神 Kira | Telegram" width="30px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
 </a>
 <a href="https:mailto:samirjana2307@gmail.com">
- <img align="left" alt="Samir Jana | Gmail" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/gmail.svg" />
+ <img align="left" alt="Samir Jana | Gmail" width="30px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/samir-jana-04036b200/">
- <img align="left" alt="Samir Jana | Linkedin" width="21px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/linkedin.svg" />
+ <img align="left" alt="Samir Jana | Linkedin" width="30px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/linkedin.svg" />
 </a>
 
 </p>
