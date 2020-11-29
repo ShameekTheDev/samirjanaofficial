@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Samir! <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="35px"></h1>
-<h3 align="center"></b> <code>CyberSecurity</code> | <code>C</code> | <code>C++</code> | <code>HTML</code> | <code>CSS</code> | <code>Python</code>| <code>Android Reverse Engineering</code> | <code>Django</code> | <code>Rest API</code></h3>
+<h3 align="center"><code>Passionate FrontEnd Developer</code> | <code>CyberSecurity</code> | <code>C++</code> | <code>HTML</code> | <code>CSS</code> | <code>Python</code>| <code>Android Reverse Engineering</code> | <code>Django</code> | <code>Rest API</code></h3>
 
 <div align="center">
  
@@ -11,7 +11,7 @@
 
 ## Few things about me
 - 🎓 4'th Year Computer Science Student [@STCET Kolkata Campus❤](https://www.stcet.org/)
-- 😍️ A passionate self-taught frontEnd web developer
+- 😍️ A passionate self-taught FrontEnd web developer
 - 😎 CyberSecurity Enthusiast & Certified Information Security Defender (C|ISD)😎
 - 😉 Noob in long-term Coding
 - ☁️ Cloud Enthusiast
