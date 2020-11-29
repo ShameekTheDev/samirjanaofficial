@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Samir! <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="35px"></h1>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=SamirJanaOfficial&row=1)](https://github.com/SamirJanaOfficial)
 <img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Few things about me
@@ -23,9 +23,7 @@
 
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="350" />
 
-<br><br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SamirJanaOfficial&row=1)](https://github.com/SamirJanaOfficial)
+<br>
 </div>
 
 ## Connect With Me 👇
