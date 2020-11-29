@@ -25,6 +25,8 @@
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="350" />
 </div>
 
+<br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamirJanaOfficial" alt="SamirJana" /></a> </p>
 
 ## Connect With Me 👇
