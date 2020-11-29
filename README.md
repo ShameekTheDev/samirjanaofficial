@@ -1,7 +1,11 @@
 <h1 align="center">Hi there, I'm Samir! <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/Hi.gif" width="35px"></h1>
+
 <div align="center">
+ 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SamirJanaOfficial&row=1)](https://github.com/SamirJanaOfficial)
+
 </div>
+
 <img align="right" alt="GIF" height="140px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Few things about me
