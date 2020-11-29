@@ -34,7 +34,6 @@
  <img align="left" alt="Samir Jana | Linkedin" width="40px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/linkedin.svg" />
 </a>
 
-
 ## CURRENTLY LISTENING TO 🎧
 
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="WIZ KHALIFA Spotify Playing" width="350" />
