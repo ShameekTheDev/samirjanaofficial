@@ -19,7 +19,7 @@
 - 😉 Noob in long-term Coding
 - ☁️ Cloud Enthusiast
 - 💡 A creative individual
-- 😴 Spend my free time making project for <a href="https://t.me/uDreamTooSmall">Telegram</a> 😇 & Reading Story Books📚
+- 😴 Spend my free time making project for <a href="https://t.me/">Telegram</a> 😇 & Reading Story Books📚
 
 <div align="center">
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/Code1.gif" alt="coding ?">
@@ -37,7 +37,7 @@
 
 ## Connect With Me 👇
 <a href="https://t.me/uDreamTooSmall">
- <img align="left" alt="Yagami 死神 Kira | Telegram" width="40px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/telegram.svg" />
+ <img align="left" alt="Samir Jana | Facebook" width="40px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/facebook.svg" />
 </a>
 <a href="https:mailto:samirjana2307@gmail.com">
  <img align="left" alt="Samir Jana | Gmail" width="40px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/assets/gmail.svg" />
@@ -65,8 +65,8 @@
 - 😄 I'm Still Learning Git & GitHub
 - 🥰 Python Lover
 - ⚜️ Most Of My Repositories Are For Telegram❤
-- 💬 Ask me about anything [here](https://github.com/SamirJanaOfficial/samirjanaofficial/issues) or [on Telegram](https://t.telegram.ind.in/ShiNobiCloud)
-- 🤔 You can join my channel on Telegram as [ShiNobi Cloud](https://t.telegram.ind.in/ShiNobiCloud)
+- 💬 Ask me about anything [here](https://github.com/SamirJanaOfficial/samirjanaofficial/issues) or [on Telegram](https://t.telegram.ind.in/)
+- 🤔 You can join my channel on Telegram as [SC](https://t.telegram.ind.in/)
 </br>
 
 ## Published Projects by Me are below💻👯
