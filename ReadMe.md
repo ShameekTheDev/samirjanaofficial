@@ -30,7 +30,7 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SamirJanaOfficial/&title=Profile%20Views)
 
 ## Currently Listening To 🎧
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1zq2x27de7vmt8nc7my9st8fg&cover_image=true&theme=default
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1zq2x27de7vmt8nc7my9st8fg&cover_image=true&theme=default)
 
 <br>
 </div>
