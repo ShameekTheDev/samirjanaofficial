@@ -104,7 +104,7 @@
  ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
 ![Samir's github stats](https://readmestats.vercel.app/api?username=SamirJanaOfficial&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast) | ![Samir's langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirJanaOfficial&layout=compact&theme=highcontrast)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vive3)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SamirJanaOfficial)
 
 ## Donate Me:
 [![Donate](https://img.shields.io/badge/Donate%20Us-UPI-orange?style=for-the-badge)](https://upayi.me/sj.imsamir@okaxis)
