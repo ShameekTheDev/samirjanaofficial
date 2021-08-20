@@ -22,9 +22,9 @@
 - 😴 Spend my free time making project for <a href="https://t.me/">Telegram</a> 😇 & Reading Story Books📚
 
 
-## Badges 📛
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
+
 
 
 <div align="center">
