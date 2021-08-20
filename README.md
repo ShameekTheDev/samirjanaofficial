@@ -22,7 +22,6 @@
 - 😴 Spend my free time making project for <a href="https://t.me/">Telegram</a> 😇 & Reading Story Books📚
 
 
-
 <div align="center">
 <img width="400px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/Code1.gif" alt="coding ?">
 <img width="395px" src="https://raw.githubusercontent.com/SamirJanaOfficial/samirjanaofficial/main/gifs/study.gif" alt="study ?">
@@ -50,6 +49,10 @@
 
 <br><br><br>
 
+## Badges 📛
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
 ## Skills 👨‍💻
 ![cybersecurity](https://img.shields.io/badge/C%7CISD-Cyber--Security--Enthusiast-brightgreen?logo=appveyor&style=for-the-badge)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=orange)
@@ -62,10 +65,6 @@
 ![GoogleCloudPlatform](https://img.shields.io/badge/-GCP-black?style=for-the-badge&logo=google&logoColor=red&labelColor=white)
 ![heroku](https://img.shields.io/badge/-heroku-grey?style=for-the-badge&logo=heroku&logoColor=white&labelColor=8E2DE2)
 
-
-## Badges 📛
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 
 - 🌱 I’m currently learning Python
 - 😄 I'm Still Learning Git & GitHub
